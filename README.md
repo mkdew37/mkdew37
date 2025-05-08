@@ -27,6 +27,10 @@ I have several projects you can check out, here are a few I'm working on right n
 Here are some resources that have helped me on my journey:
 - [The Odin Project](https://www.theodinproject.com/) - An amazing platform to learn web development and other programming topics.
 
+## 📸 Image Credits
+
+The user profile picture is a [Cute Panda holding Bamboo illustration](https://www.freepik.com/free-vector/cute-panda-holding-bamboo-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-flat_27614734.htm#fromView=search&page=1&position=8&uuid=b3866e10-a84e-406f-aee5-f029384576b7&query=panda) by [catalyststuff on Freepik](https://www.freepik.com).
+
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/mkdew37)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
