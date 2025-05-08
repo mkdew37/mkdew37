@@ -29,3 +29,5 @@ Here are some resources that have helped me on my journey:
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/mkdew37)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mkdew37)](https://github.com/ryo-ma/github-profile-trophy)
