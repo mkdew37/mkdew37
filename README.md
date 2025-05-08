@@ -26,3 +26,6 @@ I have several projects you can check out, here are a few I'm working on right n
 ## 📚 Resources
 Here are some resources that have helped me on my journey:
 - [The Odin Project](https://www.theodinproject.com/) - An amazing platform to learn web development and other programming topics.
+
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/mkdew37)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
